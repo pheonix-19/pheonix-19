@@ -1,8 +1,8 @@
-![alt text](banner-1.png)
-<h1 align="center">Hi 👋, I'm Ayush</h1>
+![alt text  ](banner-1.png)
 
-<h3 align="center">A passionate Mechatronics Engineer from India</h3>
-<img align="right" alt="Coding" widht="400" height="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0eb56430581063.562936ca4a402.gif">
+
+
+<img align="right" alt="Coding" widht="300" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0eb56430581063.562936ca4a402.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonix-19&label=Profile%20views&color=0e75b6&style=flat" alt="pheonix-19" /> </p>
 
