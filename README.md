@@ -2,14 +2,12 @@
 
 
 <div>
-  <img align="center" alt="GIF" src="ncomp (2).gif"/>
+  <img align="center" alt="GIF" src="BreakLine.gif"/>
 </div>
 <div>
   <img align="center" alt="GIF" src="BreakLine.gif"/>
 </div>
-<div>
-  <img align="center" alt="GIF" src="ncomp (2).gif"/>
-</div>
+
 
 <!-- <img align="right" alt="Coding" widht="300" height="300" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/0eb56430581063.562936ca4a402.gif"> -->
 
@@ -17,7 +15,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonix-19&label=Profile%20views&color=0e75b6&style=flat" alt="pheonix-19" /> </p>
 
 <div>
-  <img align="center" alt="GIF" src="ncomp (1).gif" />
+  <img align="center" alt="GIF" src="ncomp (3).gif" />
 </div>
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
 
