@@ -54,7 +54,7 @@
     <a href="https://www.instagram.com/the.ayush.0019/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
-    <a href="mailto:ayush.official1901@gmail.com?subject=Hello%20Riyaz,%20From%20Github">
+    <a href="mailto:ayush.official1901@gmail.com?subject=Hello%20Ayush,%20From%20Github">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
   </p>
