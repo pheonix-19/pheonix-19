@@ -15,8 +15,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonix-19&label=Profile%20views&color=0e75b6&style=flat" alt="pheonix-19" /> </p>
 
 <div>
-  <img align="left" alt="GIF" src="ncomp (1).gif" height="400" />
-   <img align="right" alt="GIF" src="git1.gif" height="400" />
+  <img align="left" alt="GIF" src="ncomp (1).gif" height="300" />
+   <img align="right" alt="GIF" src="git1.gif" height="300" />
 </div>
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
