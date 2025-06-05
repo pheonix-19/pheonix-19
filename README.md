@@ -1,4 +1,4 @@
-![alt text  ](banner-1.png)
+
 
 
 <div>
@@ -16,7 +16,7 @@
 
 <div>
   <img align="left" alt="GIF" src="ncomp (1).gif" height="300" />
-   <img align="right" alt="GIF" src="git1.gif" height="300" />
+   <img align="right" alt="GIF" src="git2.gif" height="300" />
 </div>
 
 <!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
@@ -71,15 +71,15 @@
 </div>
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pheonix-19&show_icons=true&locale=en&layout=compact" alt="pheonix-19" /></p> -->
 <p align="center">
-<a href="https://github.com/siddiq0611/github-readme-stats">
+<!-- <a href="https://github.com/siddiq0611/github-readme-stats">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api?username=pheonix-19&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=dark">
-</a>
+</a> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pheonix-19&show_icons=true&locale=en" alt="pheonix-19" /></p> -->
-<a href="https://github.com/pheonix-19/pheonix-19">
+<!-- <a href="https://github.com/pheonix-19/pheonix-19">
   <img align="center" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siddiq0611&show_icons=true&count_private=true&theme=dark&langs_count=5" />
-</a>
+</a> -->
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pheonix-19&" alt="pheonix-19" /></p> -->
-  <img align="center" height="180" src="git2.gif" />
+<!--   <img align="center" height="180" src="git2.gif" /> -->
 
 </p>
 <div>
@@ -90,18 +90,6 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pheonix-19&theme=dark&hide_border=false" height="160em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pheonix-19&theme=dark&hide_border=false" height="160em" />
 </p>
-
-<div>
-  <img align="center" alt="GIF" src="BreakLine.gif"/>
-</div>
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pheonix-19&theme=xcode)](https://github.com/pheonix-19)
-
-<div>
-  <img align="center" alt="GIF" src="BreakLine.gif"/>
-</div>
-
-[![An image of @pheonix19's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pheonix19)](https://holopin.io/@pheonix19)
 
 <div>
   <img align="center" alt="GIF" src="BreakLine.gif"/>
