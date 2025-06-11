@@ -48,7 +48,7 @@
     <a style="text-decoration:none" href="https://www.linkedin.com/in/ayush-523956257/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
-    <a href="https://discord.com/silentking_19/">
+    <a href="https://discord.com/channels/silentking_19">
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
     </a>
     <a href="https://www.instagram.com/the.ayush.0019/">
