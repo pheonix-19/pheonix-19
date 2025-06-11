@@ -45,7 +45,7 @@
 </div>
 <div>
   <p align="middle">
-    <a style="text-decoration:none" href="https://www.linkedin.com/in/ayush-523956257/">
+    <a style="text-decoration:none" href="[https://www.linkedin.com/in/ayush-523956257/](https://www.linkedin.com/in/ayush-523956257/)">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a>
     <a href="https://discord.com/silentking_19/">
