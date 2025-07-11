@@ -11,7 +11,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonix-19&label=Profile%20views&color=0e75b6&style=flat" alt="pheonix-19" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=pheonix-19&label=Profile%20views&color=0e75b6&style=flat" alt="pheonix-19" /> </p> 
 
 <div>
   <img align="left" alt="GIF" src="ncomp (1).gif" height="300" />
