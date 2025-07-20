@@ -1,6 +1,3 @@
-
-
-
 <div>
   <img align="center" alt="GIF" src="BreakLine.gif"/>
 </div>
