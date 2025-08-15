@@ -70,6 +70,15 @@
 
 ---
 
+## 🏆 Holopin Badges  
+<p align="center">
+  <a href="https://holopin.io/@pheonix19">
+    <img src="https://holopin.me/pheonix19" alt="Holopin Badges">
+  </a>
+</p>
+
+---
+
 <div align="center">
   <img src="BreakLine.gif" alt="divider" />
   <i>“The best way to predict the future is to invent it.”</i>
