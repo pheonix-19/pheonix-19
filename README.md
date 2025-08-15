@@ -37,44 +37,36 @@
 ## 🛠️ Skills & Tools
 <p align="center">
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="40" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" width="40" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" width="40" alt="C"/>
   
   <!-- AI / ML -->
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow"/>
-  <img src="https://avatars.githubusercontent.com/u/25720743?s=200&v=4" height="40" alt="Hugging Face"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/FAISS_logo.png" height="40" alt="FAISS"/>
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" width="40" alt="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" width="40" alt="TensorFlow"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" width="40" alt="Hugging Face"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" width="40" alt="scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" width="40" alt="pandas"/>
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" width="40" alt="OpenCV"/>
   
   <!-- Frameworks & APIs -->
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40" alt="FastAPI"/>
-  <img src="https://seeklogo.com/images/O/openai-logo-8B6BF0C57E-seeklogo.com.png" height="40" alt="OpenAI API"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/slack.svg" height="40" alt="Slack API"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jira.svg" height="40" alt="Jira"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40" width="40" alt="FastAPI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" height="40" width="40" alt="Slack API"/>
   
   <!-- DevOps -->
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/dockercompose.svg" height="40" alt="Docker Compose"/>
-  <img src="https://www.vectorlogo.zone/logos/githubactions/githubactions-icon.svg" height="40" alt="GitHub Actions"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" alt="Prometheus"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" alt="Grafana"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" width="40" alt="Docker"/>
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="40" width="40" alt="GitHub Actions"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" width="40" alt="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" width="40" alt="Grafana"/>
   
   <!-- Robotics -->
-  <img src="https://www.ros.org/imgs/logo-white.png" height="40" alt="ROS"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" height="40" alt="CMake"/>
+  <img src="https://www.ros.org/imgs/logo-white.png" height="40" width="40" alt="ROS"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" width="40" alt="Arduino"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" height="40" width="40" alt="CMake"/>
   
   <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="Figma"/>
-</p>
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284728-3b6db8f4-15e8-4e9d-9f3a-6486b2bc4d47.gif" width="85%">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="40" alt="Figma"/>
 </p>
 
 ## 📊 GitHub Analytics
