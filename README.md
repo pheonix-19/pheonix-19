@@ -66,7 +66,6 @@
   
   <!-- Tools -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" width="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" width="40" alt="Figma"/>
 </p>
 
 ## 📊 GitHub Analytics
