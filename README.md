@@ -6,7 +6,7 @@
   <img src="BreakLine.gif" alt="divider" />
   
   <!-- Intro GIF -->
-  <img src="ncomp (1).gif" alt="Developer Animation" height="250"/>
+  <img src="top.gif" alt="Developer Animation" height="250"/>
   
   <!-- Name & Title -->
   <h1 style="color:#00CED1;">Ayush | Robotics & AI Developer</h1>
