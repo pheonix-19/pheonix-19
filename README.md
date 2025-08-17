@@ -47,18 +47,14 @@
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
-  <img src="https://raw.githubusercontent.com/facebookresearch/faiss/main/docs/source/_static/img/faiss_logo.png" height="40" alt="FAISS"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV"/>
   
   <!-- Frameworks & APIs -->
   <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40" alt="FastAPI"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/OpenAI_Logo.svg" height="40" alt="OpenAI API"/>
   <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" height="40" alt="Slack API"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Jira_%28Software%29_logo.svg" height="40" alt="Jira"/>
   
   <!-- DevOps -->
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" alt="Docker"/>
-  <img src="https://raw.githubusercontent.com/docker/compose-cli/main/logo.svg" height="40" alt="Docker Compose"/>
   <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="40" alt="GitHub Actions"/>
   <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" alt="Prometheus"/>
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" alt="Grafana"/>
