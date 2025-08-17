@@ -15,16 +15,45 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v4
 
+      - name: Debug repository info
+        run: |
+          echo "Repository: ${{ github.repository }}"
+          echo "Repository owner: ${{ github.repository_owner }}"
+          echo "Current directory contents:"
+          ls -la
+
       - name: Generate SVG
         uses: cyprieng/github-breakout@v1.0.0
         with:
           github_username: ${{ github.repository_owner }}
 
+      - name: Check if output directory exists
+        run: |
+          echo "Checking for output directory..."
+          ls -la
+          if [ -d "output" ]; then
+            echo "Output directory found:"
+            ls -la output/
+          else
+            echo "Output directory not found!"
+            exit 1
+          fi
+
       - name: Move generated SVGs
         run: |
           mkdir -p images
-          mv output/light.svg images/breakout-light.svg
-          mv output/dark.svg images/breakout-dark.svg
+          if [ -f "output/light.svg" ]; then
+            mv output/light.svg images/breakout-light.svg
+            echo "Moved light.svg"
+          else
+            echo "light.svg not found!"
+          fi
+          if [ -f "output/dark.svg" ]; then
+            mv output/dark.svg images/breakout-dark.svg
+            echo "Moved dark.svg"
+          else
+            echo "dark.svg not found!"
+          fi
 
       - name: Configure git
         run: |
@@ -33,6 +62,10 @@ jobs:
 
       - name: Commit and push SVGs
         run: |
-          git add images/breakout-light.svg images/breakout-dark.svg
-          git commit -m "chore: update breakout SVGs" || echo "No changes to commit"
-          git push
+          if [ -f "images/breakout-light.svg" ] || [ -f "images/breakout-dark.svg" ]; then
+            git add images/
+            git commit -m "chore: update breakout SVGs [$(date)]" || echo "No changes to commit"
+            git push
+          else
+            echo "No SVG files to commit"
+          fi
