@@ -88,5 +88,12 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284728-3b6db8f4-15e8-4e9d-9f3a-6486b2bc4d47.gif" width="85%">
 </p>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
+    <img alt="Breakout Game — based on my contributions graph" src="images/breakout-light.svg" />
+  </picture>
+</p>
 
 <p align="center"><i>“The best way to predict the future is to invent it.”</i></p>
