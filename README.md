@@ -30,7 +30,7 @@
   <a href="https://www.linkedin.com/in/ayush-523956257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/ayushpheonix"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
   <a href="https://grabcad.com/ayush-36"><img src="https://img.shields.io/badge/GrabCad-5865F2?style=for-the-badge&logo=GrabCad&logoColor=white"></a>
-  <a href="mailto:ayush.official1901@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://leetcode.com/u/SilentKing_19/"><img src="https://img.shields.io/badge/leetcode-FF0000?style=for-the-badge&logo=leetcode&logoColor=white"></a>
 </p>
 
 
