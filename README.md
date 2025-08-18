@@ -29,7 +29,7 @@
   <a href="https://ayushverse.me/"><img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=githubpages&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ayush-523956257/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.kaggle.com/ayushpheonix"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"></a>
-  <a href="https://discord.com/channels/silentking_19"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"></a>
+  <a href="https://grabcad.com/ayush-36"><img src="https://img.shields.io/badge/GrabCad-5865F2?style=for-the-badge&logo=GrabCad&logoColor=white"></a>
   <a href="mailto:ayush.official1901@gmail.com"><img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
