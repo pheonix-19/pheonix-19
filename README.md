@@ -1,7 +1,7 @@
 <!-- Elegant Dark Themed GitHub Profile README -->
 
 <div align="center">
-  <img src="top.gif" alt="Developer Animation" height="230"/>
+  <img src="top.gif" alt="Developer Animation" height="200"/>
   <h1 style="color:#00CED1; margin-bottom: 0;">Ayush</h1>
   <p style="margin-top: 6px;"><i>Robotics & AI Developer — building at the intersection of Automation, AI, and Robotics</i></p>
 </div>
@@ -37,36 +37,36 @@
 ## 🛠️ Skills & Tools
 <p align="center">
   <!-- Languages -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="30" alt="C"/>
   
   <!-- AI / ML -->
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="40" alt="PyTorch"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="40" alt="TensorFlow"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="40" alt="Hugging Face"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="scikit-learn"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="40" alt="pandas"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" height="30" alt="PyTorch"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" height="30" alt="TensorFlow"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" height="30" alt="Hugging Face"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="30" alt="scikit-learn"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" height="30" alt="pandas"/>
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" height="40" alt="OpenCV"/>
   
   <!-- Frameworks & APIs -->
-  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="40" alt="FastAPI"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" height="40" alt="Slack API"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" height="30" alt="FastAPI"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/slack-new-logo.svg" height="30" alt="Slack API"/>
   
   <!-- DevOps -->
-  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="40" alt="Docker"/>
-  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="40" alt="GitHub Actions"/>
-  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="40" alt="Prometheus"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="40" alt="Grafana"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" height="30" alt="Docker"/>
+  <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" height="30" alt="GitHub Actions"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" height="30" alt="Prometheus"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" height="30" alt="Grafana"/>
   
   <!-- Robotics -->
-  <img src="https://www.ros.org/imgs/logo-white.png" height="40" alt="ROS"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="40" alt="Arduino"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" height="40" alt="CMake"/>
+  <img src="https://www.ros.org/imgs/logo-white.png" height="30" alt="ROS"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" height="30" alt="Arduino"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cmake/cmake-original.svg" height="30" alt="CMake"/>
   
   <!-- Tools -->
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" alt="Git"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="Figma"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="Git"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="Figma"/>
 </p>
 
 ## 📊 GitHub Analytics
