@@ -1,7 +1,7 @@
 <!-- Elegant Dark Themed GitHub Profile README -->
 
 <div align="center">
-  <img src="top.gif" alt="Developer Animation" height="200"/>
+  <img src="top.gif" alt="Developer Animation" height="150"/>
   <h1 style="color:#00CED1; margin-bottom: 0;">Ayush</h1>
   <p style="margin-top: 6px;"><i>Robotics & AI Developer — building at the intersection of Automation, AI, and Robotics</i></p>
 </div>
@@ -10,7 +10,7 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
-    <img alt="Breakout Game — based on my contributions graph" src="images/breakout-light.svg" />
+    <img alt="Breakout Game — based on my contributions graph" src="images/breakout-light.svg" height="200"/>
   </picture>
 </p>
 
@@ -71,8 +71,8 @@
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pheonix-19&theme=github_dark&hide_border=false" height="160" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pheonix-19&theme=github_dark&hide_border=false" height="160" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pheonix-19&theme=github_dark&hide_border=false" height="120" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pheonix-19&theme=github_dark&hide_border=false" height="120" />
 </p>
 
 
