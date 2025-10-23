@@ -6,13 +6,13 @@
   <p style="margin-top: 6px;"><i>Robotics & AI Developer — building at the intersection of Automation, AI, and Robotics</i></p>
 </div>
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg" />
     <img alt="Breakout Game — based on my contributions graph" src="images/breakout-light.svg" height="200"/>
   </picture>
-</p>
+</p> -->
 
 
 
